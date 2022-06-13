@@ -1,2 +1,2 @@
-# RockPaperScissors
-Rock Paper Scissors game where a user plays against the computer
+# Django Intro
+Setting up Virtualenv environment
